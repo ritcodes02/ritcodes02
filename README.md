@@ -12,7 +12,14 @@ HELLO 👋 It's me Ritu
 - 📫 How to reach me :
 
 Email: rith.tindia@gmail.com
+
+
+
 linkedIn: www.linkedin.com/in/rithindia
+
+
+
+
 I code in
 
 
