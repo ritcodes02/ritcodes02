@@ -1,7 +1,4 @@
-## Hi there 👋
-
-
-HELLO 👋 It's me Ritu
+## Hi there 👋 It's me Ritu
 
 
 - 🔭 Here's my portfolio:
