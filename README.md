@@ -1,6 +1,3 @@
-
-![White Background Example](https://via.placeholder.com/1200x400/FFFFFF/000000?text=Your+Text+Here)
-
 ## Hi there 👋
 
 
