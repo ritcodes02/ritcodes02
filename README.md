@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Ritu
 
 
-- 🔭 Here's my portfolio:
+- 🔭 Here's my portfolio: https://portfolio-ritu02.netlify.app/
 - ⚡ I’m a full-satck developer
 - 🌱 I’m currently learning Spring Boot
 - 👩‍🎓 I'm BE (Bachelor of Engineering) graduate
